@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="true">styling</string>
+    <string name="name" translatable="true">Nama</string>
+    <string name="username" translatable="true">Email</string>
+    <string name="password" translatable="true">Kata Sandi</string>
+    <string name="register" translatable="true">daftar</string>
+    <string name="repeat_password" translatable="false">Ulangi kata sandi</string>
+    <string name="hello_welcome" translatable="true">selamat datang</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">styling</string>
+    <string name="name" translatable="false">nama</string>
+    <string name="username" translatable="false">surel</string>
+    <string name="password" translatable="false">kata sandi</string>
+    <string name="register" translatable="false">daftar</string>
+    <string name="hello_welcome">selamat datang</string>
+</resources>

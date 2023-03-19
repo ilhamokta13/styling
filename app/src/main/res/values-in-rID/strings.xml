@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="true">gaya</string>
+    <string name="name" translatable="true">nama</string>
+    <string name="username" translatable="true">alamat surel</string>
+    <string name="password" translatable="true">kata sandi</string>
+    <string name="register" translatable="true">daftar</string>
+    <string name="hello_welcome" translatable="true">selamat datang</string>
+</resources>
